@@ -1,2 +1,2 @@
-.\bin\Release\RandomGens
+.\TechnicalStuff\bin\Release\RandomGens
 break
