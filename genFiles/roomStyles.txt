@@ -1,0 +1,23 @@
+hallway
+hexagon-shaped room
+long hallway
+forked hallway
+square room
+chamber
+l-shaped room
+ballroom
+basement
+statue garden
+garden
+kitchen
+long gallery
+bedroom
+closet
+alcove
+secret passage
+workshop
+parlour
+study
+star-shaped room
+crypt
+mausoleum

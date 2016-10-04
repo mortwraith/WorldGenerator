@@ -1,0 +1,7 @@
+Desert
+Tropical Rainforest
+Scrublands
+Savanna
+Tropical Ocean
+Reef
+Arid Steppe
