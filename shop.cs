@@ -29,7 +29,7 @@ namespace RandomGens
                 items.Add(generators.generateTreasure());
                 prices.Add((int)(items[i].Length * (baseAmt / 10)));
             }
-            keeperName = generators.general("bossNames.txt") + " " + generators.general("npcSurnames.txt");
+            keeperName = generators.general("names.txt") + " " + generators.general("npcSurnames.txt");
         }
 
         public override string ToString()

@@ -315,11 +315,11 @@ namespace RandomGens
         {
             if (rand.Next(0,4) == 3)
             {
-                richTextBox1.Text = generators.general("bossNames.txt") + " " + generators.general("bossDesc.txt"); 
+                richTextBox1.Text = generators.general("names.txt") + " " + generators.general("bossDesc.txt"); 
             }
             else
             {
-                richTextBox1.Text = generators.general("bossNames.txt") + " " + generators.general("npcSurnames.txt");
+                richTextBox1.Text = generators.general("names.txt") + " " + generators.general("npcSurnames.txt");
             }
         }
 

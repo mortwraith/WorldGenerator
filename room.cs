@@ -54,7 +54,7 @@ namespace RandomGens
                     }
                     else
                     {
-                        boss = generators.general("bossNames.txt") + " ";
+                        boss = generators.general("names.txt") + " ";
                         boss += generators.general("bossDesc.txt");
                     }
                     amtCreat = rand.Next(0, 3);

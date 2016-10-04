@@ -36,11 +36,11 @@ namespace RandomGens
                     {
                         if (i > 0 && rand.Next(5) == 0)
                         {
-                            people.Add(generators.general("bossNames.txt") + " " + people[rand.Next(i)].Split(' ').Last());
+                            people.Add(generators.general("names.txt") + " " + people[rand.Next(i)].Split(' ').Last());
                         }
                         else
                         {
-                            people.Add(generators.general("bossNames.txt") + " " + generators.general("npcSurnames.txt"));
+                            people.Add(generators.general("names.txt") + " " + generators.general("npcSurnames.txt"));
                         }
                     }
                     break;
@@ -78,11 +78,11 @@ namespace RandomGens
                     {
                         if (i > 0 && rand.Next(5) == 0)
                         {
-                            people.Add(generators.general("bossNames.txt") + " " + people[rand.Next(i)].Split(' ').Last());
+                            people.Add(generators.general("names.txt") + " " + people[rand.Next(i)].Split(' ').Last());
                         }
                         else
                         {
-                            people.Add(generators.general("bossNames.txt") + " " + generators.general("npcSurnames.txt"));
+                            people.Add(generators.general("names.txt") + " " + generators.general("npcSurnames.txt"));
                         }
                     }
                     break;

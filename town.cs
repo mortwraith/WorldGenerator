@@ -54,7 +54,7 @@ namespace RandomGens
                     name = generators.general("generalSurnames.txt");
                     break;
                 case 3:
-                    name = generators.general("bossNames.txt");
+                    name = generators.general("names.txt");
                     break;
                 case 4:
                     name = generators.general("demonNames.txt");
