@@ -1,0 +1,5 @@
+shrine
+cloister
+sanctuary
+chapel
+sanctum

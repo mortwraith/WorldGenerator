@@ -1,0 +1,27 @@
+Labyrinth
+Castle
+Keep
+Ruin
+Temple
+Hideout
+Lab
+Mine
+Fortress
+Prison
+Pyramid
+Barrow
+Tomb
+Cave
+Cavern
+Chasm
+Base
+Catacombs
+Mansion
+Tower
+Guild Hall
+Church
+Ziggurat
+Stronghold
+Giant Skeleton
+Belly of a beast
+Palace

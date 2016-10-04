@@ -1,0 +1,7 @@
+//Lines starting with a '/' will not be counted and denote different settings
+Hovel
+Cottage
+Dogtrot
+//
+Insula
+Bungalow

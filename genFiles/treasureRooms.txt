@@ -1,0 +1,8 @@
+treasure room
+hoard
+treasury
+armory
+museum
+vault
+storeroom
+gallery
